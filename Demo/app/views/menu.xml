@@ -1,0 +1,11 @@
+<Alloy>
+	<View class="container" id="menu">
+		<View class="menu-header" layout="horizontal">
+			<ImageView id="maps" />
+			<Label id="title" width="Ti.UI.SIZE" left="10"></Label>
+			<View id="containerButton" width="Ti.UI.SIZE" layout="horizontal" left="10">
+			</View>
+		</View>
+		<Button id="dots"></Button>
+	</View>
+</Alloy>

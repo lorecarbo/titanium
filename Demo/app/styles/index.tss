@@ -1,0 +1,9 @@
+".container": {
+    backgroundColor: "#fff"
+},
+"TextField": {
+    top: 10,
+    width: Ti.UI.SIZE,
+    borderStyle: Ti.UI.INPUT_BORDERSTYLE_ROUNDED,
+    color: "#000"
+}

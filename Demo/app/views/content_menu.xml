@@ -1,0 +1,7 @@
+<Alloy>
+	<View class="container" layout="vertical" width="50%" height="300px" left="600px" top="0px" backgroundColor="grey">
+		<TextField>Menu 1</TextField>
+		<TextField>Menu 2</TextField>
+		<TextField>Menu 3</TextField>
+	</View>
+</Alloy>

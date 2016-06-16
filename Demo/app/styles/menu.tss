@@ -1,0 +1,33 @@
+
+".container" : {
+  backgroundColor: "#000",
+  width: Ti.UI.fill,
+  top: 0,
+  height: 60
+}
+"#containerButton" : {
+  verticalAlign: "center",
+  right: 0
+}
+".menu-header" : {
+  backgroundColor: "#000",
+  width: Ti.UI.SIZE,
+  height: 60,
+  left: 0
+}
+"#maps" : {
+  left: 5,
+  right: 5,
+  top: 5,
+  bottom: 5,
+  width: 50,
+  height: 50
+}
+"#dots" : {
+  right: 5,
+  top: 15,
+  bottom: 5,
+  width: 30,
+  height: 30,
+  backgroundImage: "/images/menu-dots.png"
+}
